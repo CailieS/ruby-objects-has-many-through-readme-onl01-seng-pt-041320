@@ -28,3 +28,5 @@ end
     meal_a.tip <=> meal_b.tip
   end
 end
+
+end
